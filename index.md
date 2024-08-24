@@ -13,9 +13,8 @@ Syntax highlighted code block
 
 # Jiwon Lee's First CS193 Homework
 
-- Bulleted
-- List
-
+- CS193 is a great place to make mistakes and learn.
+- CS193 is fun.
 - CS193 is a great class to get to know more about computer science tools.
 
 ```
